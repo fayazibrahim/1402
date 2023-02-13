@@ -1,0 +1,5 @@
+C:\Users\user\Documents\task123\task123\obj\Debug\netcoreapp3.1\task123.csproj.AssemblyReference.cache
+C:\Users\user\Documents\task123\task123\obj\Debug\netcoreapp3.1\task123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\task123\task123\obj\Debug\netcoreapp3.1\task123.AssemblyInfoInputs.cache
+C:\Users\user\Documents\task123\task123\obj\Debug\netcoreapp3.1\task123.AssemblyInfo.cs
+C:\Users\user\Documents\task123\task123\obj\Debug\netcoreapp3.1\task123.csproj.CoreCompileInputs.cache
